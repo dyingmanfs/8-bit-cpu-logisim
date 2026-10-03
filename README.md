@@ -396,21 +396,6 @@ Test vectors can be loaded from:
 part-1-alu/tests/
 ```
 
-# Academic Context
-
-This project was developed as part of:
-
-**CNG331 / EEE445 – Computer Organisation and Architecture I**
-
-at **METU Northern Cyprus Campus**.
-
-The project was developed incrementally from basic combinational circuits to an extended 8-bit processor architecture.
-
-## Contributors
-
-- Furkan Sağlam
-- Fatih Sağlam
-- Eda İslam
 
 ## Keywords
 
